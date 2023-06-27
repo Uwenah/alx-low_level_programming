@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_rev - functions tht print a script
- * @str: string to print
+ * print_rev - function that print string and reverse 
+ * @s: print string
  */
 void print_rev(char *s)
 {
