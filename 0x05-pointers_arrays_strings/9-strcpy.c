@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *_strcpy - function that copy the string pointed br src 
+ * *_strcpy - function that copy the string pointed br src
  * @dest: copy to
  * @src: copy from
  * Return: string
